@@ -41,6 +41,11 @@ network/
 ui/             — Jetpack Compose экраны
 viewmodel/      — ChatViewModel (MVVM)
 ```
+## Known Issues / TODO
+
+приватный ключ сейчас в SharedPreferences, планируется перенос в Android Keystore
+сервер setka.app не поднят, интернет-транспорт — заглушка
+mesh-маршрутизация экспериментальная
 
 ## Технологии
 
